@@ -1,0 +1,54 @@
+Work directory /var/mqsi/Payment_E_01 already exists, skipping creation...
+Copying server.conf.yaml to Work Directory
+Copying Default qmgr Policy
+2026-09-02 09:31:09.458880: BIP1990I: Integration server 'Payment_E_01' starting initialization; version '13.0.5.0' (64-bit)
+2026-09-02 09:31:09.542018: BIP10104I: Using external directory vault '/var/mqsi/extvault'.
+2026-09-02 09:31:10.416636: BIP9905I: Initializing resource managers.
+2026-09-02 09:31:10.418814: BIP15315I: Using JRE version '8' located at '/opt/IBM/ace/common/jdk/jre', as directed by the 'ibmint specify jre' command.
+Listening for transport dt_socket at address: 4416
+2026-09-02 09:31:13.423817: BIP7408W: The integration node is being run using Java version '1.8.0_461', not the version it was shipped with.
+2026-09-02 09:31:14.411900: BIP10112I: The resources from 'mqsicdc.par' have not been loaded because the runtime component 'ChangeDataCapture' has not been enabled. Reason: 'Restricted by Java Runtime selected'. Further detail: '/opt/IBM/ace/common/jdk/jre/embedded.java.yaml'.
+2026-09-02 09:31:17.365948: BIP10112I: The resources from 'imbopentelemetry.lil' have not been loaded because the runtime component 'OpenTelemetry' has not been enabled. Reason: 'Integration Server Configuration'. Further detail: 'server.conf.yaml'.
+node.js process.on('exit') event emitted with exitCode of 0
+node.js process.on('exit') event emitted with exitCode of 0
+main checker destroyed before initialisation completed, latest stage was MQ default CCSID , pid 1, tid 1, attempted stage was 49 and 48 stages completed
+2026-09-02 09:31:33.100228: BIP2117E: IBM App Connect Enterprise internal error: diagnostic information 'Fatal Error; exception thrown before initialisation completed', 'MQ default CCSID', '', '1', '1', '49', '48'.
+2026-09-02 09:31:33.100304: BIP2203E: An integration server has encountered a problem whilst starting.
+2026-09-02 09:31:33.100346: BIP2677E: Failed to make a client connection to queue manager 'QM_PAYMENT_EXP' using hostname 'host.containers.internal' on port '1420': MQCC=2; MQRC=2538.
+2026-09-02 09:31:33.652072: BIP1992I: Integration server 'Payment_E_01' stopped.
+Work directory /var/mqsi/Payment_E_01 already exists, skipping creation...
+Copying server.conf.yaml to Work Directory
+Copying Default qmgr Policy
+2026-09-02 09:31:46.912568: BIP1990I: Integration server 'Payment_E_01' starting initialization; version '13.0.5.0' (64-bit)
+2026-09-02 09:31:46.980088: BIP10104I: Using external directory vault '/var/mqsi/extvault'.
+2026-09-02 09:31:47.039580: BIP9905I: Initializing resource managers.
+2026-09-02 09:31:47.041344: BIP15315I: Using JRE version '8' located at '/opt/IBM/ace/common/jdk/jre', as directed by the 'ibmint specify jre' command.
+Listening for transport dt_socket at address: 4416
+2026-09-02 09:31:47.383772: BIP7408W: The integration node is being run using Java version '1.8.0_461', not the version it was shipped with.
+2026-09-02 09:31:47.590660: BIP10112I: The resources from 'mqsicdc.par' have not been loaded because the runtime component 'ChangeDataCapture' has not been enabled. Reason: 'Restricted by Java Runtime selected'. Further detail: '/opt/IBM/ace/common/jdk/jre/embedded.java.yaml'.
+2026-09-02 09:31:48.405540: BIP10112I: The resources from 'imbopentelemetry.lil' have not been loaded because the runtime component 'OpenTelemetry' has not been enabled. Reason: 'Integration Server Configuration'. Further detail: 'server.conf.yaml'.
+node.js process.on('exit') event emitted with exitCode of 0
+node.js process.on('exit') event emitted with exitCode of 0
+main checker destroyed before initialisation completed, latest stage was MQ default CCSID , pid 1, tid 1, attempted stage was 49 and 48 stages completed
+2026-09-02 09:31:52.157080: BIP2117E: IBM App Connect Enterprise internal error: diagnostic information 'Fatal Error; exception thrown before initialisation completed', 'MQ default CCSID', '', '1', '1', '49', '48'.
+2026-09-02 09:31:52.157152: BIP2203E: An integration server has encountered a problem whilst starting.
+2026-09-02 09:31:52.157180: BIP2677E: Failed to make a client connection to queue manager 'QM_PAYMENT_EXP' using hostname 'host.containers.internal' on port '1420': MQCC=2; MQRC=2538.
+2026-09-02 09:31:53.059524: BIP1992I: Integration server 'Payment_E_01' stopped.
+Work directory /var/mqsi/Payment_E_01 already exists, skipping creation...
+Copying server.conf.yaml to Work Directory
+Copying Default qmgr Policy
+2026-09-03 03:55:30.711408: BIP1990I: Integration server 'Payment_E_01' starting initialization; version '13.0.5.0' (64-bit)
+2026-09-03 03:55:30.787694: BIP10104I: Using external directory vault '/var/mqsi/extvault'.
+2026-09-03 03:55:30.886390: BIP9905I: Initializing resource managers.
+2026-09-03 03:55:30.888384: BIP15315I: Using JRE version '8' located at '/opt/IBM/ace/common/jdk/jre', as directed by the 'ibmint specify jre' command.
+Listening for transport dt_socket at address: 4416
+2026-09-03 03:55:32.734756: BIP7408W: The integration node is being run using Java version '1.8.0_461', not the version it was shipped with.
+2026-09-03 03:55:33.169690: BIP10112I: The resources from 'mqsicdc.par' have not been loaded because the runtime component 'ChangeDataCapture' has not been enabled. Reason: 'Restricted by Java Runtime selected'. Further detail: '/opt/IBM/ace/common/jdk/jre/embedded.java.yaml'.
+2026-09-03 03:55:35.519380: BIP10112I: The resources from 'imbopentelemetry.lil' have not been loaded because the runtime component 'OpenTelemetry' has not been enabled. Reason: 'Integration Server Configuration'. Further detail: 'server.conf.yaml'.
+node.js process.on('exit') event emitted with exitCode of 0
+node.js process.on('exit') event emitted with exitCode of 0
+main checker destroyed before initialisation completed, latest stage was MQ default CCSID , pid 1, tid 1, attempted stage was 49 and 48 stages completed
+2026-09-03 03:55:44.973044: BIP2117E: IBM App Connect Enterprise internal error: diagnostic information 'Fatal Error; exception thrown before initialisation completed', 'MQ default CCSID', '', '1', '1', '49', '48'.
+2026-09-03 03:55:44.973116: BIP2203E: An integration server has encountered a problem whilst starting.
+2026-09-03 03:55:44.973148: BIP2677E: Failed to make a client connection to queue manager 'QM_PAYMENT_EXP' using hostname 'host.containers.internal' on port '1420': MQCC=2; MQRC=2538.
+2026-09-03 03:55:45.875832: BIP1992I: Integration server 'Payment_E_01' stopped.
